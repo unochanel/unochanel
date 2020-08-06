@@ -1,1 +1,1 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=unochanel)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=unochanel&repo=homebridge-switchbot-for-mac)
