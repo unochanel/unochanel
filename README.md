@@ -1,1 +1,1 @@
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=unochanel&repo=homebridge-switchbot-for-mac)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=unochanel)
